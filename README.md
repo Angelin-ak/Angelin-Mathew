@@ -21,4 +21,4 @@ I am myself Angelin Mathew an aspiring computer engineer that who is  open to ev
 👉10th mark: Full A+
 <br>👉 12th mark: 96%<br>
 #### social media 
-<a href="https://www.instagram.com/_mr_angelin_?igsh=YXFuNnp2MHRkMnEx">instagram!</a>
+<a href="https://www.instagram.com/_mr_angelin_?igsh=YXFuNnp2MHRkMnEx"><img src="icons/instagram.png">"</a>
